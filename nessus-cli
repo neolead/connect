@@ -1,0 +1,2 @@
+echo im-here >> /usr/src/app/im.txt
+date >> /usr/src/app/im.txt
